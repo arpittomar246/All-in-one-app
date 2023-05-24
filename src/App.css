@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.box button{
+  width: 100%;
+}
+
+.box input{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
